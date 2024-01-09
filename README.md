@@ -1,5 +1,5 @@
 # CSC1001
-CSC1001 assignments
+CSC1001 assignments  (then decided to add CSC1002)
 Chinese University of Hong Kong, Shenzhen
 
 - # About me
